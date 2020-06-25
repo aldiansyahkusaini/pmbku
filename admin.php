@@ -122,7 +122,7 @@ if (isset($_POST['login']))
         <div class="underline-title"></div>
       </div>
       <form method="post" class="form">
-        <label style="padding-top:13px">Usernama</label>
+        <label style="padding-top:13px">Username</label>
         <input class="form-content" type="text" name="user" autocomplete="on" required />
         <div class="form-border"></div>
         <label style="padding-top:22px">Password</label>
